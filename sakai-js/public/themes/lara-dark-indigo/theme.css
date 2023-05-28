@@ -34,10 +34,12 @@
   --content-padding:1.25rem;
   --inline-spacing:0.5rem;
   --border-radius:6px;
-  --surface-ground:#040d19;
+  /* --surface-ground:#040d19; */
+  --surface-ground:#1d2530;
   --surface-section:#040d19;
   --surface-card:#071426;
-  --surface-overlay:#071426;
+  /* --surface-overlay:#071426; */
+  --surface-overlay:#1d2530;
   --surface-border:#0b213f;
   --surface-hover:rgba(255,255,255,.03);
   --focus-ring: 0 0 0 0.2rem rgba(165, 180, 252, 0.5);

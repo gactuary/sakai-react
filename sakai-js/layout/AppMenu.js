@@ -10,6 +10,7 @@ const AppMenu = () => {
     const model = [
         {
             label: 'Home',
+            icon : 'pi pi-fw pi-home',
             items: [{ label: 'Dashboard', icon: 'pi pi-fw pi-home', to: '/' }]
         },
         {
